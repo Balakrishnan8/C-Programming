@@ -1,0 +1,59 @@
+
+******Basic Structure*******
+
+
+
+
+				==============================
+				| 	Documentation section    |
+				==============================
+				|	     Link Section        |
+				==============================
+				|	  Definition Section     | 
+				==============================
+				| Global Declaration Section |
+				==============================
+				|   Main Function Section    |
+				==============================
+				|    Userdefined function    |
+				==============================
+
+
+
+1- Documentation Section
+
+	-> name of the document.
+	-> created date and time.
+	-> programmer details.
+	-> description.
+	
+	
+2- Link Section
+
+	->linking another file which is already exists. i.e., header file.
+	->LinkerError:
+		  if print() is used instead of printf(), then there will be no 
+		error at compilation time, error occurs at execution time. linker 
+		error will occur, the linker is fail to link print() function,
+		because there is no print function in C. print() function is not 
+		available in header files. 
+		
+3- Definition section
+	defining constants
+	defining macros
+	function declaration
+	
+4- Global Declaration section
+	Declaration of global variables.
+	
+5- Main function Section
+	Declaration part.
+	Exectable part.
+	
+6- Userdefined function
+	function that are created by us.	
+	
+	
+	
+	
+					- by Sandeep Sarathi sir.
